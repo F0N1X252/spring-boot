@@ -32,8 +32,9 @@ Project ini dibagi menjadi beberapa lapisan tanggung jawab:
 **3. List Produk (GET BY ID)**
 ![List Produk](screenshots/get_by_id.png)
 
-**4. Update Produk (PUT)**
+**2. Update Produk (UPDATE)**
 ![List Produk](screenshots/update.png)
+
 
 **5. Delete Produk (DELETE)**
 ![List Produk](screenshots/delete.png)
